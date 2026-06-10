@@ -5,9 +5,9 @@
 		"annotations": [],
 		"type": "FileServer",
 		"typeProperties": {
-			"host": "C:\\Users\\vyshn\\OneDrive\\Desktop\\aiode_crm",
-			"userId": "Vyshnav Prasad",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJhM2RlZTdiNi03OTNjLTQ3N2ItODcyNi0yODg5NmIzMTk1OWQiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"host": "C:\\aiode_crm",
+			"userId": "l5\\vyshnav",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIxYzBkYmVjYi1lNjQ5LTRjY2MtYjU0NC1lYWExMjc0NjgwZDAiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "OnpremIntegrationRuntime",
